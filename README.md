@@ -1,3 +1,3 @@
-# flutter_application_2
+# Nyaya Saathi
 
 A new Flutter project.
